@@ -1,13 +1,13 @@
 import React from "react";
 
-import { GetInTouch, Header, OurPartners, Showcase } from "../feature";
+import { GetInTouch, Header, Partners, Showcase } from "../feature";
 
 export const App = () => (
   <>
     <Header />
     <main>
       <Showcase />
-      <OurPartners />
+      <Partners />
       <GetInTouch />
     </main>
   </>

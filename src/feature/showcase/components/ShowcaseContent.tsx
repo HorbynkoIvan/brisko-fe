@@ -22,7 +22,7 @@ export const ShowcaseContent = () => (
       color="secondary"
       variant="contained"
       size="large"
-      sx={{ minWidth: 200 }}
+      sx={{ minWidth: 200, mt: 8 }}
     >
       Join Us
     </Button>
